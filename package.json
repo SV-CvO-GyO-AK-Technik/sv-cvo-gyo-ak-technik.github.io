@@ -1,0 +1,25 @@
+{
+  "name": "sv-cvo-gyo-ak-technik.github.io",
+  "version": "1.0.0",
+  "description": "A little website for the sv of the cvo-gyo",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SV-CvO-GyO-AK-Technik/sv-cvo-gyo-ak-technik.github.io.git"
+  },
+  "author": "FiTeKa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SV-CvO-GyO-AK-Technik/sv-cvo-gyo-ak-technik.github.io/issues"
+  },
+  "homepage": "https://github.com/SV-CvO-GyO-AK-Technik/sv-cvo-gyo-ak-technik.github.io#readme",
+  "dependencies": {
+    "typescript": "^5.6.3"
+  }
+}
